@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Reflex Client</title>
+    <!-- <link rel="shortcut icon" href="./favicon.png"/>-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link rel="stylesheet" href="cover.css">
+    <link rel="stylesheet" media="screen" href="style.css">
+    
+</head>
+<body>
+    
+    <div class="site-wrapper">
+
+    <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+            <header class="masthead clearfix">
+                <div class="inner">
+                    <h3 class="masthead-brand"> </h3>
+                </div>
+            </header>
+
+            <main role="main" class="inner cover">
+                <h1 class="cover-heading"> </h1>
+                <p class="lead">
+                    <a href="/ReflexClient.zip" class="btn btn-lg btn-secondary">Download Reflex Client</a>
+					
+                    
+                </p>
+            </main>
+
+            
+
+        </div>
+    </div>
+</div>
+</body>
+</html>
