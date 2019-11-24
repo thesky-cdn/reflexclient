@@ -2,7 +2,7 @@
 <html lang='en'>
 <head>
     <meta charset='UTF-8'>
-    <link rel='shortcut icon' type='image/png' href='static\img\logo.png'>
+    <link rel='shortcut icon' type='image/png' href='static\img\enigma.png'>
     <link rel='stylesheet' href='static\css\style.css'>
     <link rel='stylesheet' href='static\css\animated.css'>
     <link rel='stylesheet' href='static\css\bootstrap.min.css'>
@@ -21,7 +21,7 @@
     <br>
     <br>
     <style>img[alt="www.000webhost.com"]{display:none;}</style>
-    <center><img src='static\img\logo.png' style='width: 200px; height: 200px;'></center>
+    <center><img src='static\img\enigma.png' style='width: 200px; height: 200px;'></center>
     <div id='title'>
         <h1><span>REFLEX</span></h1>
         <h2 class='fading'>Client</h2>
