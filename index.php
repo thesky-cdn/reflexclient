@@ -23,8 +23,8 @@
     <style>img[alt="www.000webhost.com"]{display:none;}</style>
     <center><img src='static\img\enigma.png' style='width: 200px; height: 200px;'></center>
     <div id='title'>
-        <h1><span>REFLEX</span></h1>
-        <h2 class='fading'>Client</h2>
+        <h1><span>ENIGMA</span></h1>
+        <h2 class='fading'>CLIENT</h2>
     </div>
     <center>
         <div id='buttons'>
